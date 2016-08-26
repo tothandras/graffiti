@@ -51,7 +51,7 @@
     "eslint-plugin-react": "5.2.2",
     "express": "4.14.0",
     "graphql": "0.6.2",
-    "hapi": "13.5.0",
+    "hapi": "15.0.1",
     "koa": "2.0.0-alpha.2",
     "mocha": "2.5.3",
     "pre-commit": "1.1.3",
