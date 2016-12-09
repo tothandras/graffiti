@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/RisingStack/graffiti#readme",
   "dependencies": {
-    "babel-runtime": "6.11.6",
+    "babel-runtime": "6.20.0",
     "boom": "4.0.0"
   },
   "devDependencies": {
